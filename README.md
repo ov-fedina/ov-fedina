@@ -1,14 +1,21 @@
-## **Hello all!!!**
-## **My name is Olga Fedina.**
-## I am a beginner front-end developer from Moscow.
+## **Welcome to my page!**
+**My name is Olga Fedina.**
+I am a beginner frontend developer from Moscow.
 
-***The goal of my project*** is to create beauty and maximum functionality in desktop and mobile applications that will make life easier for people!  
-
-You can see all my work on this page.
+***The goal of my project*** is to create beauty and maximum functionality in desktop and mobile applications that will make life easier!!!
 
 Contact me by mail: <langust85@gmail.com>
 
-Languages and tools I currently work with:
+#
+My works are:
+1. [The "Learning to Learn" project is a training project from Yandex.Practicum to consolidate the material covered in the first and second sprints on the "Web Developer" course. During its development, technologies such as flexbox layout, HTML semantic tags, BEM methodology, including the BEM file structure, frames, animations and transformations were used. This project allows you to practically consolidate the theory of HTML and CSS for creating websites.](https://ov-fedina.github.io/how-to-learn/index.html)
+
+2. [The "Traveling in Russia" project is a training project from Yandex.Practicum to consolidate the material covered in the third sprint on the "Web Developer" course. During its development, technologies such as working with grid-layout and flex-layout, building an adaptive site structure were used. All work on obtaining data was carried out in the Figma application.
+The work was focused on five intervals: from 1280 pixels - from standard laptops to infinity, from 1024 to 1280 - for small laptops, from 768 to 1024 pixels - from vertical to horizontal position of the tablet, from 425 to 768 pixels - from large smartphone to a vertical tablet, up to 425 pixels - mobile devices.](https://ov-fedina.github.io/russian-travel/index.html)
+3. Training in Python and Javascript.
+
+#
+My languages and tools I currently work with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,3 +35,10 @@ Languages and tools I currently work with:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+#
+My Github States:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ov-fedina&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ov-fedina&layout=compact&theme=dracula)](https://github.com/ov-fedina/github-readme-stats)
