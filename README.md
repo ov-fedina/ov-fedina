@@ -1,4 +1,4 @@
-## **Welcome to my page!**
+## **Welcome to my page!** ![](https://komarev.com/ghpvc/?username=ov-fedina&color=brightgreen)
 **My name is Olga Fedina.**
 I am a beginner frontend developer from Moscow.
 
@@ -39,6 +39,6 @@ My languages and tools I currently work with:
 #
 My Github States:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ov-fedina&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ov-fedina&show_icons=true&theme)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ov-fedina&layout=compact&theme=dracula)](https://github.com/ov-fedina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ov-fedina&layout=compact&theme)](https://github.com/ov-fedina/github-readme-stats)
