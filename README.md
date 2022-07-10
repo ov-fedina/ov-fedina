@@ -8,13 +8,28 @@ Contact me by mail: <langust85@gmail.com>
 
 #
 My works are:
-1. [The "Learning to Learn" project](https://ov-fedina.github.io/how-to-learn/index.html)
-is a training project from Yandex.Practicum to consolidate the material covered in the first and second sprints on the "Web Developer" course. During its development, technologies such as flexbox layout, HTML semantic tags, BEM methodology, including the BEM file structure, frames, animations and transformations were used. This project allows you to practically consolidate the theory of HTML and CSS for creating websites.
-
-2. [The "Traveling in Russia" project](https://ov-fedina.github.io/russian-travel/index.html)
- is a training project from Yandex.Practicum to consolidate the material covered in the third sprint on the "Web Developer" course. During its development, technologies such as working with grid-layout and flex-layout, building an adaptive site structure were used. All work on obtaining data was carried out in the Figma application.
+1. [Product section layout-1.](http://cl34438.tmweb.ru/apple-watch/index.html)
+Product card. Apple Watch.
+2. [Product section layout-2.](http://cl34438.tmweb.ru/macbook/index.html)
+Product card. MacBook.
+3. [Layout of the section with goods. Cotton Skirt.](http://cl34438.tmweb.ru/product-cards-desktop/index.html)
+Desktop version.
+4. [Blog posts-1.](http://cl34438.tmweb.ru/blog-posts-desktop/index.html)
+Desktop version.
+5. [Blog posts-2.](http://cl34438.tmweb.ru/blog-02-desktop/index.html)
+Desktop version.
+6. [Bem naming.](http://cl34438.tmweb.ru/bem/index.html)
+Study and development of bem naming.
+7. [Project Forest travel.](http://cl34438.tmweb.ru/forest-travel/main.html)
+Layout of 4 pages for the travel agency website (main page, services, articles, contacts). Lead time 5 days. Made a feedback form, interactive map, mobile adaptation. The following technologies are used: HTML5, CSS3, SCSS, desktop-first, feedback.
+8. [Project Unit.](http://cl34438.tmweb.ru/unit-project/index.html)
+Landing site layout for a commercial task and project management product from anywhere in the world. Lead time 7 days. Made navigation in JavaScript, using carousel plugin,mobile adaptation. The following technologies were used: HTML5, CSS3, SCSS, JavaScript, jQuery, desktop-first.
+9. [The "Learning to Learn" project](https://ov-fedina.github.io/how-to-learn/index.html)
+is a training project from Yandex.Practicum to consolidate the material covered in the first and second sprints on the "Web Developer" course. During its development, technologies such as flexbox layout, HTML semantic tags, BEM methodology, including the BEM file structure, frames, animations and transformations were used. This project allows you to practically consolidate the theory of HTML5 and CSS3 for creating websites.
+10. [The "Traveling in Russia" project](https://ov-fedina.github.io/russian-travel/index.html)
+is a training project from Yandex.Practicum to consolidate the material covered in the third sprint on the "Web Developer" course. During its development, technologies such as working with grid-layout and flex-layout, building an adaptive site structure were used. All work on obtaining data was carried out in the Figma application.
 The work was focused on five intervals: from 1280 pixels - from standard laptops to infinity, from 1024 to 1280 - for small laptops, from 768 to 1024 pixels - from vertical to horizontal position of the tablet, from 425 to 768 pixels - from large smartphone to a vertical tablet, up to 425 pixels - mobile devices.
-3. Training in Python and Javascript.
+11. Training in Python and Javascript.
 #
 My certificates:
 ![](/img/olga-fedina.png)
