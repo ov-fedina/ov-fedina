@@ -6,8 +6,7 @@ I am a beginner frontend developer from Moscow.
 
 Contact me by mail: <langust85@gmail.com>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ov-fedina)
-
+Contact me by: [LinkedIn](https://www.linkedin.com/in/ov-fedina)
 
 #
 My works are:
