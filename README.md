@@ -4,6 +4,11 @@ I am a beginner frontend developer from Moscow.
 
 ***The goal of my project*** is to create beauty and maximum functionality in desktop and mobile applications that will make life easier!!!
 
+<div id="badges">
+  <a href="www.linkedin.com/in/ov-fedina">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 Contact me by mail: <langust85@gmail.com>
 
 #
